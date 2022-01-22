@@ -15,3 +15,12 @@ for numbers in range(1,100):
    print ("Found your number")
   else:
    print ("Did not find your number")
+
+
+print ("This will create a bug")
+print ("This will create a bug")
+print ("This will create a bug")
+print ("This will create a bug")
+print ("This will create a bug")
+print ("This will create a bug")
+print ("This will create a bug")
