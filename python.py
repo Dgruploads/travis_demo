@@ -20,3 +20,5 @@ for numbers in range(1,100):
 def developer_1_function():
   for number in numbers:
     pass
+
+Some changes
