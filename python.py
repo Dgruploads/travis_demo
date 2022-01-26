@@ -15,3 +15,8 @@ for numbers in range(1,100):
    print ("Found your number")
   else:
    print ("Did not find your number")
+
+
+def developer_1_function():
+  for number in numbers:
+    pass
